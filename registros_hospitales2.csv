@@ -1,4 +1,4 @@
-case_id;infection date;date_of_outcome;gender;hospital;infector;age;age_unit;wt_kg;ht_cm;ct_blood;fever;chills;cough;aches;vomit;time_admission;temp;merged_header;
+case_id;infection_date;date_of_outcome;gender;hospital;infector;age;age_unit;wt_kg;ht_cm;ct_blood;fever;chills;cough;aches;vomit;time_admission;temp;merged_header;
 5fe599;8/5/14;;m;Other;f547d6;2;years;27;48;22;no;no;yes;no;yes;;36,8;a;b
 8689b7;;18/5/14;f;;;3;years;25;59;22;;;;;;;36,9;a;b
 11f8ea;;30/5/14;m;St. Mark's Maternity Hospital (SMMH);;56;years;91;238;21;;;;;;;36,9;a;b
